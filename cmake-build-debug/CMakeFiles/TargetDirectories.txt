@@ -1,0 +1,3 @@
+/home/hiuching-g/CLionProjects/ExcelTrans/cmake-build-debug/CMakeFiles/ExcelTrans.dir
+/home/hiuching-g/CLionProjects/ExcelTrans/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hiuching-g/CLionProjects/ExcelTrans/cmake-build-debug/CMakeFiles/rebuild_cache.dir
