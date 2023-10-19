@@ -1,0 +1,5 @@
+instance name,Modified_solution_cost,Original_solution_cost,Modified_runtime,Original_runtime,Modified_f_min_value,Original_f_min_value,Modified_number_of_descendants,Original_number_of_descendants,number_of_duplicate_conflict
+input/SmallSpecialMaps/Cross1-3.scen:,12,12,0.001773,0.001363,12,12,20,20,2
+input/SmallSpecialMaps/Cross1-4.scen:,-1,-1,60.0025,60.0001,24,29,545050,201564,0
+input/SmallSpecialMaps/Cross1-5.scen:,-1,-1,60.0002,60,27,33,804327,148183,0
+input/SmallSpecialMaps/Cross4-4.scen:,-1,-1,60.0002,60,26,31,650745,147294,0
