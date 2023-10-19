@@ -18,8 +18,8 @@ struct Data {
 };
 
 int main() {
-    std::ifstream input_file("/home/hiuching-g/CLionProjects/csvConverter/maze-8-8.csv");
-    std::ofstream output_file("/home/hiuching-g/CLionProjects/csvConverter/maze-8-8-output.csv");
+    std::ifstream input_file("/home/hiuching-g/A_Workspace/TC-CBS/output/Group2/line-1-5.csv");
+    std::ofstream output_file("/home/hiuching-g/CLionProjects/csvConverter/line-1-5-output.csv");
 
     std::string line1, line2;
 
@@ -58,7 +58,7 @@ int main() {
         data.original_f_min_value = std::stod(tokens2[6]);
         data.modified_num_descendants = std::stoi(tokens1[31]);
         data.original_num_descendants = std::stoi(tokens2[31]);
-        data.num_duplicate_conflicts = std::stoi(tokens1[25]);
+        data.num_duplicate_conflicts = std::stoi(tokens1[15]);
 
         // Write combined data to output file
         output_file << data.instance_name << ","

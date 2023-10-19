@@ -1,0 +1,2 @@
+instance name,Modified_solution_cost,Original_solution_cost,Modified_runtime,Original_runtime,Modified_f_min_value,Original_f_min_value,Modified_number_of_descendants,Original_number_of_descendants,number_of_duplicate_conflict
+input/SmallSpecialMaps/line-1-2.scen:,-2,-1,0.08897,60.0244,246,2600,6,434,1

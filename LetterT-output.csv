@@ -1,0 +1,3 @@
+instance name,Modified_solution_cost,Original_solution_cost,Modified_runtime,Original_runtime,Modified_f_min_value,Original_f_min_value,Modified_number_of_descendants,Original_number_of_descendants,number_of_duplicate_conflict
+input/SmallSpecialMaps/LetterT1-3.scen:,-1,-1,60.0001,60.0003,24,29,192767,146782,0
+input/SmallSpecialMaps/LetterT2-3.scen:,-1,-1,60.0021,60.0002,19,24,234943,133122,0
