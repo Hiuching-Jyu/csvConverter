@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/hiuching-g/CLionProjects/ExcelTrans/cmake-build-debug"
+			"value" : "/home/hiuching-g/CLionProjects/csvConverter/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/hiuching-g/CLionProjects/ExcelTrans/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/hiuching-g/CLionProjects/csvConverter/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/hiuching-g/CLionProjects/ExcelTrans"
+			"value" : "/home/hiuching-g/CLionProjects/csvConverter"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/hiuching-g/CLionProjects/ExcelTrans/cmake-build-debug"
+			"value" : "/home/hiuching-g/CLionProjects/csvConverter/cmake-build-debug"
 		},
 		{
 			"name" : "ExcelTrans_IS_TOP_LEVEL",
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/hiuching-g/CLionProjects/ExcelTrans"
+			"value" : "/home/hiuching-g/CLionProjects/csvConverter"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
@@ -1172,18 +1172,6 @@
 			],
 			"type" : "INTERNAL",
 			"value" : "TRUE"
-		},
-		{
-			"name" : "libxl_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "The directory containing a CMake configuration file for libxl."
-				}
-			],
-			"type" : "PATH",
-			"value" : "libxl_DIR-NOTFOUND"
 		}
 	],
 	"kind" : "cache",

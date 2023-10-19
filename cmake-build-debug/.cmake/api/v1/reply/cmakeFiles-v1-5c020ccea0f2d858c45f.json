@@ -125,8 +125,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/hiuching-g/CLionProjects/ExcelTrans/cmake-build-debug",
-		"source" : "/home/hiuching-g/CLionProjects/ExcelTrans"
+		"build" : "/home/hiuching-g/CLionProjects/csvConverter/cmake-build-debug",
+		"source" : "/home/hiuching-g/CLionProjects/csvConverter"
 	},
 	"version" : 
 	{
