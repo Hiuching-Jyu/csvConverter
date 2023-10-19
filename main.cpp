@@ -18,8 +18,8 @@ struct Data {
 };
 
 int main() {
-    std::ifstream input_file("/home/hiuching-g/CLionProjects/ExcelTrans/maze-8-8.csv");
-    std::ofstream output_file("output.csv");
+    std::ifstream input_file("/home/hiuching-g/CLionProjects/csvConverter/maze-8-8.csv");
+    std::ofstream output_file("/home/hiuching-g/CLionProjects/csvConverter/maze-8-8-output.csv");
 
     std::string line1, line2;
 
@@ -49,7 +49,7 @@ int main() {
         }
 
         // Assign values based on token indices
-        data.instance_name = tokens1[34].substr(0, 30);
+        data.instance_name = tokens1[34].substr(0, 40);
         data.modified_solution_cost = std::stod(tokens1[5]);
         data.original_solution_cost = std::stod(tokens2[5]);
         data.modified_runtime = std::stod(tokens1[0]);
